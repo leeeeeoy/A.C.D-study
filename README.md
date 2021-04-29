@@ -7,7 +7,8 @@
 
 ### 참고 자료들
 
-- <a href = "https://github.com/kavgan/ROUGE-2.0">ROUGE-2.0
+- <a href = "https://github.com/kavgan/ROUGE-2.0">ROUGE-2.0 - java
+- <a href = "https://github.com/pltrdy/rouge">ROUGE-2.0 - python
 - <a href = "https://danbi-ncsoft.github.io/works/2020/10/19/snorkel-label.html">Snorkel
 - <a href = "https://tech.kakao.com/2018/12/13/khaiii/">Khaiii
 - <a href = "https://wikidocs.net/33793">영어 임베딩
