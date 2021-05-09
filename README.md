@@ -17,5 +17,7 @@
 - <a href = "https://github.com/ratsgo/embedding/releases">한국어 임베딩
 - <a href = "https://github.com/uoneway/Text-Summarization-Repo">KoBERT
 - <a href = "https://github.com/uoneway/KoBertSum">KoBertSum
+- <a href = "https://github.com/SKT-AI/KoBART">KoBART
+- <a href = "https://github.com/Beomi/KcBERT">KcBERT
 
 ## _Don't cry...Keep JOHNBURR!!!_
