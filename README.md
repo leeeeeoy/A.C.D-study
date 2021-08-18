@@ -1,6 +1,7 @@
 # _A.C.D Study_
 
 ## 공부내용
+
 - <a href="https://github.com/leeeeeoy/A.C.D-study/blob/master/keras/README.md">Keras
 - <a href="https://github.com/leeeeeoy/A.C.D-study/blob/master/RNN/README.md">RNN
 - <a href="https://github.com/leeeeeoy/A.C.D-study/blob/master/keras/Functional-API/README.md">Functional-API
@@ -25,16 +26,18 @@
 ## 분류모델
 
 ### KoBART 요약 모델
+
 - SKT-AI 에서 공개한 요약 모델 사용
 - <a href = "https://github.com/seujung/KoBART-summarization">KoBART 요약 모델 참고 링크</a>
 
 ### KoBERT 유사도 모델
+
 - KoBERT 유사도 모델에서 데이터 변경 후 직접 학습
-- <a href = "https://github.com/BM-K/KoSentenceBERT_SKT">KoBERT 분류 모델 참고 링크
-- <a href = "https://drive.google.com/drive/folders/1X076qmZVKfUKS2bQaCtFWhGbSaHtPqJp?usp=sharing">학습 모델 드라이브 링크</a>
+- <a href = "https://github.com/BM-K/KoSentenceBERT_SKT">KoBERT 분류 모델 참고 링크</a>
 
 ### 동작
-- 학습한 두 모델을 Flask 서버로 연결
+
+- 두 모델을 Flask 서버로 연결
 - KoBART 모델 80 포트, KoBERT 모델 90포트 연결
 - 네이버 뉴스를 기준으로 작성
 - 해당 링크를 넣으면 제목, 원문, 요약문, 유사도를 반환
